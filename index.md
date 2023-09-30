@@ -13,11 +13,11 @@ Today, I'm dedicated to data analytics and predictive models to mitigate defects
 ### WORK EXPERIENCE
 **2017 –**__Now__: CFAA (Aeronautics Advanced Manufacturing Center)
 
-    **2023-** __Now__: Researcher
+ **2023-** __Now__: Researcher
 
-    **2018 – 2023**: PhD Student
+ **2018 – 2023**: PhD Student
 
-    **2017 – 2018**: Master Student
+ **2017 – 2018**: Master Student
 
 ### EDUCATION
 
