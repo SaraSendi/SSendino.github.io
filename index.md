@@ -1,6 +1,6 @@
 Hello!
 
-I'm Sara, and I work as a researcher at the University of the Basque Country (EHU/UPV), specifically at the Aeronautics [Aeronautics Advanced Manufacturing Center](https://cfaa.eus/en/) (CFAA).
+I'm Sara, and I work in metal additive manufacturing in [Madit Metal] (https://www.maditmetal.com), but I am also interested in data analysis.
 
 This website summarizes my professional journey, the projects I've been involved in, and provides ways to get in touch with me or review my code if you're interested!
 
@@ -11,9 +11,10 @@ Today, I'm dedicated to data analytics and predictive models to mitigate defects
 
 
 ### WORK EXPERIENCE
-- **2017 –**__Now__: CFAA (Aeronautics Advanced Manufacturing Center)
+-**2024**-Now: Madit Metal
+-  **2017 –2023**: CFAA (Aeronautics Advanced Manufacturing Center)
 
-    - **2023-** __Now__: Researcher
+    - **2023-2024** : Researcher
 
     - **2018 – 2023**: PhD Student
 
