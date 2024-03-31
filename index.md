@@ -20,7 +20,7 @@ Today, I'm dedicated to data analytics and predictive models to mitigate defects
 
     - **2017 – 2018**: Master Student
 
-### EDUCATION
+### EDUCATION 
 
 - **2022 -** __Now__: [The Egg](https://plataforma.theegg.ai/profile/SSendi-4254/), Artificial Intelligence School.
 
